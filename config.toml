@@ -1,4 +1,4 @@
-baseURL = 'http://playverv.github.io/githubpage'
+baseURL = 'https://playverv.github.io/githubpage'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Github Pages'
 theme = 'ananke'
