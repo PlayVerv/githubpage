@@ -1,0 +1,3 @@
+baseURL = 'http://playverv.github.io/githubpage'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
